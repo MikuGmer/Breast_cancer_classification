@@ -40,13 +40,6 @@ This project contains a complete pipeline for preprocessing, building, training,
 ### 🏆 Best Model:
 The **ViT (Vision Transformer)** outperformed the other models, achieving **83.63% accuracy**. Despite its lightweight configuration, it demonstrated strong generalization and learning capacity for this binary classification task.
 
-## 💾 Pretrained Weights
-
-Trained model weights and logs are saved in the `{model_name}` directories:
-- `.pth`: PyTorch model state dictionary  
-- `.pkl`: Training logs and evaluation metadata  
-
-
 ## 💡 4. Critical Reflection
 
 - **Strengths**: Flexible pipeline, comparative analysis across model families, and interpretable evaluation  
